@@ -1,0 +1,10 @@
+# Analysis Configuration Parameters
+
+# Parameters for analysis
+parameter_1: value_1
+parameter_2: value_2
+
+# Chicago Community Area Zones
+zones:
+  - zone_1: description_1
+  - zone_2: description_2
